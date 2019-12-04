@@ -1,0 +1,12 @@
+/Users/pamelaruizhernandez/Projects/Prueba/Prueba/bin/Debug/Prueba.exe
+/Users/pamelaruizhernandez/Projects/Prueba/Prueba/bin/Debug/Prueba.pdb
+/Users/pamelaruizhernandez/Projects/Prueba/Prueba/obj/x86/Debug/Prueba.csprojAssemblyReference.cache
+/Users/pamelaruizhernandez/Projects/Prueba/Prueba/obj/x86/Debug/Prueba.csproj.CoreCompileInputs.cache
+/Users/pamelaruizhernandez/Projects/Prueba/Prueba/obj/x86/Debug/Prueba.exe
+/Users/pamelaruizhernandez/Projects/Prueba/Prueba/obj/x86/Debug/Prueba.pdb
+/Users/pamelaruizhernandez/Projects/ok/Binario-Decimal/Prueba/bin/Debug/Prueba.exe
+/Users/pamelaruizhernandez/Projects/ok/Binario-Decimal/Prueba/bin/Debug/Prueba.pdb
+/Users/pamelaruizhernandez/Projects/ok/Binario-Decimal/Prueba/obj/x86/Debug/Prueba.csprojAssemblyReference.cache
+/Users/pamelaruizhernandez/Projects/ok/Binario-Decimal/Prueba/obj/x86/Debug/Prueba.csproj.CoreCompileInputs.cache
+/Users/pamelaruizhernandez/Projects/ok/Binario-Decimal/Prueba/obj/x86/Debug/Prueba.exe
+/Users/pamelaruizhernandez/Projects/ok/Binario-Decimal/Prueba/obj/x86/Debug/Prueba.pdb

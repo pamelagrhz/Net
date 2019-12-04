@@ -1,0 +1,6 @@
+/Users/pamelaruizhernandez/Projects/asteriscosyGionbajo/asteriscosyGionbajo/obj/x86/Debug/asteriscosyGionbajo.csprojAssemblyReference.cache
+/Users/pamelaruizhernandez/Projects/asteriscosyGionbajo/asteriscosyGionbajo/obj/x86/Debug/asteriscosyGionbajo.csproj.CoreCompileInputs.cache
+/Users/pamelaruizhernandez/Projects/asteriscosyGionbajo/asteriscosyGionbajo/bin/Debug/asteriscosyGionbajo.exe
+/Users/pamelaruizhernandez/Projects/asteriscosyGionbajo/asteriscosyGionbajo/bin/Debug/asteriscosyGionbajo.pdb
+/Users/pamelaruizhernandez/Projects/asteriscosyGionbajo/asteriscosyGionbajo/obj/x86/Debug/asteriscosyGionbajo.exe
+/Users/pamelaruizhernandez/Projects/asteriscosyGionbajo/asteriscosyGionbajo/obj/x86/Debug/asteriscosyGionbajo.pdb

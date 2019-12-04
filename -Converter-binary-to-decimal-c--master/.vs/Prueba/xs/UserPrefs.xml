@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{473D250B-91C0-46B5-B195-9DAD4CD3B6EA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prueba/Conversiones.cs">
+    <Files>
+      <File FileName="Prueba/Program.cs" Line="19" Column="2" />
+      <File FileName="Prueba/Conversiones.cs" Line="20" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Prueba PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
