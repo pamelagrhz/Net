@@ -1,0 +1,12 @@
+/Users/pamelaruizhernandez/Projects/Ejercicio_valdepeña/Ejercicio_valdepeña/obj/x86/Debug/Ejercicio_valdepeña.csprojAssemblyReference.cache
+/Users/pamelaruizhernandez/Projects/Ejercicio_valdepeña/Ejercicio_valdepeña/obj/x86/Debug/Ejercicio_valdepeña.csproj.CoreCompileInputs.cache
+/Users/pamelaruizhernandez/Projects/Ejercicio_valdepeña/Ejercicio_valdepeña/bin/Debug/Ejercicio_valdepeña.exe
+/Users/pamelaruizhernandez/Projects/Ejercicio_valdepeña/Ejercicio_valdepeña/bin/Debug/Ejercicio_valdepeña.pdb
+/Users/pamelaruizhernandez/Projects/Ejercicio_valdepeña/Ejercicio_valdepeña/obj/x86/Debug/Ejercicio_valdepeña.exe
+/Users/pamelaruizhernandez/Projects/Ejercicio_valdepeña/Ejercicio_valdepeña/obj/x86/Debug/Ejercicio_valdepeña.pdb
+/Users/pamelaruiz/Projects/Ejercicio_valdepeña/Ejercicio_valdepeña/bin/Debug/Ejercicio_valdepeña.exe
+/Users/pamelaruiz/Projects/Ejercicio_valdepeña/Ejercicio_valdepeña/bin/Debug/Ejercicio_valdepeña.pdb
+/Users/pamelaruiz/Projects/Ejercicio_valdepeña/Ejercicio_valdepeña/obj/x86/Debug/Ejercicio_valdepeña.csprojAssemblyReference.cache
+/Users/pamelaruiz/Projects/Ejercicio_valdepeña/Ejercicio_valdepeña/obj/x86/Debug/Ejercicio_valdepeña.csproj.CoreCompileInputs.cache
+/Users/pamelaruiz/Projects/Ejercicio_valdepeña/Ejercicio_valdepeña/obj/x86/Debug/Ejercicio_valdepeña.exe
+/Users/pamelaruiz/Projects/Ejercicio_valdepeña/Ejercicio_valdepeña/obj/x86/Debug/Ejercicio_valdepeña.pdb

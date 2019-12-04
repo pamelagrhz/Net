@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FA44F869-5F1D-4123-896E-E6A4C6199B05}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Ejercicio_valdepeña/Ejercicio_valdepeña/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ejercicio__valdepen_3303a PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/pamelaruiz/Projects/pizzas2/pizzas2/bin/pizzas2.dll
+/Users/pamelaruiz/Projects/pizzas2/pizzas2/bin/pizzas2.pdb
+/Users/pamelaruiz/Projects/pizzas2/pizzas2/obj/Debug/pizzas2.csproj.CoreCompileInputs.cache
+/Users/pamelaruiz/Projects/pizzas2/pizzas2/obj/Debug/pizzas2.dll
+/Users/pamelaruiz/Projects/pizzas2/pizzas2/obj/Debug/pizzas2.pdb
+/Users/pamelaruiz/Projects/pizzas2/pizzas2/obj/Debug/pizzas2.csprojAssemblyReference.cache
+/Users/pamelaruiz/Projects/net/pizzas2/pizzas2/bin/pizzas2.dll
+/Users/pamelaruiz/Projects/net/pizzas2/pizzas2/bin/pizzas2.pdb
+/Users/pamelaruiz/Projects/net/pizzas2/pizzas2/obj/Debug/pizzas2.csprojAssemblyReference.cache
+/Users/pamelaruiz/Projects/net/pizzas2/pizzas2/obj/Debug/pizzas2.csproj.CoreCompileInputs.cache
+/Users/pamelaruiz/Projects/net/pizzas2/pizzas2/obj/Debug/pizzas2.dll
+/Users/pamelaruiz/Projects/net/pizzas2/pizzas2/obj/Debug/pizzas2.pdb

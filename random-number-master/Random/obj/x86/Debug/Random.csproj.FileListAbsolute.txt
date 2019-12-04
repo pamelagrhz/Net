@@ -1,0 +1,6 @@
+/Users/pamelaruizhernandez/Projects/Random/Random/obj/x86/Debug/Random.csprojAssemblyReference.cache
+/Users/pamelaruizhernandez/Projects/Random/Random/obj/x86/Debug/Random.csproj.CoreCompileInputs.cache
+/Users/pamelaruizhernandez/Projects/Random/Random/bin/Debug/Random.exe
+/Users/pamelaruizhernandez/Projects/Random/Random/bin/Debug/Random.pdb
+/Users/pamelaruizhernandez/Projects/Random/Random/obj/x86/Debug/Random.exe
+/Users/pamelaruizhernandez/Projects/Random/Random/obj/x86/Debug/Random.pdb

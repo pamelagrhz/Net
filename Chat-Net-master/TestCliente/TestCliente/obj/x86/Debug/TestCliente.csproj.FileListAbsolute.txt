@@ -1,0 +1,6 @@
+/Users/pamelaruiz/Projects/TestCliente/TestCliente/bin/Debug/TestCliente.exe
+/Users/pamelaruiz/Projects/TestCliente/TestCliente/bin/Debug/TestCliente.pdb
+/Users/pamelaruiz/Projects/TestCliente/TestCliente/obj/x86/Debug/TestCliente.csprojAssemblyReference.cache
+/Users/pamelaruiz/Projects/TestCliente/TestCliente/obj/x86/Debug/TestCliente.csproj.CoreCompileInputs.cache
+/Users/pamelaruiz/Projects/TestCliente/TestCliente/obj/x86/Debug/TestCliente.exe
+/Users/pamelaruiz/Projects/TestCliente/TestCliente/obj/x86/Debug/TestCliente.pdb

@@ -1,0 +1,6 @@
+/Users/pamelaruiz/Projects/PF/PF/bin/Debug/PF.exe
+/Users/pamelaruiz/Projects/PF/PF/bin/Debug/PF.pdb
+/Users/pamelaruiz/Projects/PF/PF/obj/x86/Debug/PF.csprojAssemblyReference.cache
+/Users/pamelaruiz/Projects/PF/PF/obj/x86/Debug/PF.csproj.CoreCompileInputs.cache
+/Users/pamelaruiz/Projects/PF/PF/obj/x86/Debug/PF.exe
+/Users/pamelaruiz/Projects/PF/PF/obj/x86/Debug/PF.pdb

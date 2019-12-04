@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{42787F5B-6B8D-4C41-9DD3-BA5F1736DC68}|Default">
+  <MonoDevelop.Ide.ItemProperties.Cliente PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cliente/Cliente.cs">
+    <Files>
+      <File FileName="Cliente/Program.cs" Line="10" Column="64" />
+      <File FileName="Cliente/Cliente.cs" Line="44" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cliente" expanded="True">
+            <Node name="Cliente" expanded="True">
+              <Node name="Cliente.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

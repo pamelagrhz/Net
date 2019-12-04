@@ -1,0 +1,8 @@
+C:\Users\Usuario\Documents\Projects\PPO1\PPO1\bin\Debug\PPO1.exe
+C:\Users\Usuario\Documents\Projects\PPO1\PPO1\bin\Debug\PPO1.pdb
+C:\Users\Usuario\Documents\Projects\PPO1\PPO1\obj\x86\Debug\PPO1.exe
+C:\Users\Usuario\Documents\Projects\PPO1\PPO1\obj\x86\Debug\PPO1.pdb
+C:\Users\Alann Martinez\Documents\Projects\PPO1\PPO1\obj\x86\Debug\PPO1.exe
+C:\Users\Alann Martinez\Documents\Projects\PPO1\PPO1\obj\x86\Debug\PPO1.pdb
+C:\Users\Alann Martinez\Documents\Projects\PPO1\PPO1\bin\Debug\PPO1.exe
+C:\Users\Alann Martinez\Documents\Projects\PPO1\PPO1\bin\Debug\PPO1.pdb

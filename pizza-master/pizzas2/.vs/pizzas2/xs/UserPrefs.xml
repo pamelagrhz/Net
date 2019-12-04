@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E3E72908-EDA9-4669-91FB-7B556A031CEA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pizzas2/Globales.cs">
+    <Files>
+      <File FileName="pizzas2/Default.aspx.cs" Line="69" Column="1" />
+      <File FileName="pizzas2/Default.aspx.designer.cs" Line="33" Column="1" />
+      <File FileName="pizzas2/Ingrediente.cs" Line="26" Column="1" />
+      <File FileName="pizzas2/Globales.cs" Line="2" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pizzas2" expanded="True">
+            <Node name="pizzas2" expanded="True">
+              <Node name="Default.aspx" expanded="True" />
+              <Node name="Globales.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.pizzas2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

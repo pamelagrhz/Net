@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{85FE01A3-1E9C-4FF0-BBAF-DC5D01E4EC8D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tarea1EcosistemaCelulares/Pantalla.cs">
+    <Files>
+      <File FileName="Tarea1EcosistemaCelulares/Program.cs" Line="10" Column="47" />
+      <File FileName="Tarea1EcosistemaCelulares/Celular.cs" Line="24" Column="48" />
+      <File FileName="Tarea1EcosistemaCelulares/Almacenamiento.cs" Line="13" Column="36" />
+      <File FileName="Tarea1EcosistemaCelulares/Camara.cs" Line="13" Column="33" />
+      <File FileName="Tarea1EcosistemaCelulares/MemoriaR.cs" Line="12" Column="33" />
+      <File FileName="Tarea1EcosistemaCelulares/IPhone.cs" Line="14" Column="33" />
+      <File FileName="Tarea1EcosistemaCelulares/Xperia.cs" Line="14" Column="33" />
+      <File FileName="Tarea1EcosistemaCelulares/MotoG.cs" Line="14" Column="33" />
+      <File FileName="../Relacion_ES_UN_y_TIENE_UN/Relacion_ES_UN_y_TIENE_UN/Pavillion.cs" Line="26" Column="11" />
+      <File FileName="Tarea1EcosistemaCelulares/Pantalla.cs" Line="13" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tarea1EcosistemaCelulares PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

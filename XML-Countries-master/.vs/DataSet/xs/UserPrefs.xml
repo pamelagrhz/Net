@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E57A2AFB-B7A0-4F8B-8D45-A3CB0DBF3202}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataSet/Program.cs">
+    <Files>
+      <File FileName="DataSet/Program.cs" Line="43" Column="79" />
+      <File FileName="DataSet/thing.xml" Line="3" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataSet" expanded="True">
+            <Node name="ExampleDataSet" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExampleDataSet PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

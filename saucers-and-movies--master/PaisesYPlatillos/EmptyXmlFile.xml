@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<base>
+    <comida>
+        <Id>1</Id>
+        <Nombre>Chilaquiles</Nombre>
+        <Pais>Mexico</Pais>
+    </comida>
+     <comida>
+        <Id>2</Id>
+        <Nombre>Sushi</Nombre>
+        <Pais>Japón</Pais>
+    </comida>
+     <comida>
+        <Id>3</Id>
+        <Nombre>HotDog</Nombre>
+        <Pais>EUA</Pais>
+    </comida>
+     <comida>
+        <Id>4</Id>
+        <Nombre>Paella</Nombre>
+        <Pais>España</Pais>
+    </comida>
+</base>

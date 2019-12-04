@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{4551747D-73E7-4D78-9981-79417E95C2A3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PaisesYPlatillos/Default2.aspx.cs">
+    <Files>
+      <File FileName="PaisesYPlatillos/Default2.aspx.cs" Line="12" Column="2" />
+      <File FileName="PaisesYPlatillos/Default2.aspx" Line="51" Column="1" />
+      <File FileName="PaisesYPlatillos/Default.aspx" Line="47" Column="15" />
+      <File FileName="PaisesYPlatillos/Default.aspx.designer.cs" Line="41" Column="1" />
+      <File FileName="PaisesYPlatillos/Default.aspx.cs" Line="73" Column="6" />
+      <File FileName="PaisesYPlatillos/data/platillos.xml" Line="1" Column="1" />
+      <File FileName="PaisesYPlatillos/Controllers/SaucersController.cs" Line="127" Column="6" />
+      <File FileName="PaisesYPlatillos/Models/Country.cs" Line="41" Column="6" />
+      <File FileName="PaisesYPlatillos/Models/GenericModel.cs" Line="24" Column="6" />
+      <File FileName="PaisesYPlatillos/Models/Movie.cs" Line="42" Column="6" />
+      <File FileName="PaisesYPlatillos/Models/Saucer.cs" Line="54" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaisesYPlatillos" expanded="True">
+            <Node name="PaisesYPlatillos" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Default.aspx" expanded="True" />
+              <Node name="Default2.aspx" expanded="True">
+                <Node name="Default2.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PaisesYPlatillos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/pamelaruiz/Projects/SaucersAndMovies-master/PaisesYPlatillos/Controllers/SaucersController.cs" relfile="PaisesYPlatillos/Controllers/SaucersController.cs" line="68" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

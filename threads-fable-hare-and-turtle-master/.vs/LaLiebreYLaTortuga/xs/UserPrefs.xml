@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{184C0767-3214-41B5-AC2D-AA122E9340FB}|Default">
+  <MonoDevelop.Ide.ItemProperties.LaLiebreYLaTortuga PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LaLiebreYLaTortuga/Program.cs">
+    <Files>
+      <File FileName="LaLiebreYLaTortuga/Program.cs" Line="29" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/pamelaruiz/Projects/Cliente/Cliente/bin/Debug/Cliente.exe
+/Users/pamelaruiz/Projects/Cliente/Cliente/bin/Debug/Cliente.pdb
+/Users/pamelaruiz/Projects/Cliente/Cliente/obj/x86/Debug/Cliente.csprojAssemblyReference.cache
+/Users/pamelaruiz/Projects/Cliente/Cliente/obj/x86/Debug/Cliente.csproj.CoreCompileInputs.cache
+/Users/pamelaruiz/Projects/Cliente/Cliente/obj/x86/Debug/Cliente.exe
+/Users/pamelaruiz/Projects/Cliente/Cliente/obj/x86/Debug/Cliente.pdb

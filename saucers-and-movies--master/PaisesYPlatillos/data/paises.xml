@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <paises>
+        <id>1</id>
+        <name>Mexico</name>
+    </paises>
+    <paises>
+        <id>2</id>
+        <name>España</name>
+    </paises>
+    <paises>
+        <id>3</id>
+        <name>Japón</name>
+    </paises>
+    <paises>
+        <id>4</id>
+        <name>EUA</name>
+    </paises>
+    <paises>
+        <id>5</id>
+        <name>País prueba 5</name>
+    </paises>
+</data>

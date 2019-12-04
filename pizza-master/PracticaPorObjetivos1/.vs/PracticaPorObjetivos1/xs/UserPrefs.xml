@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{94E7D9D4-1A47-4250-98E4-6F1DF25BF660}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticaPorObjetivos1/Alimentos.cs">
+    <Files>
+      <File FileName="PracticaPorObjetivos1/Program.cs" Line="9" Column="39" />
+      <File FileName="PracticaPorObjetivos1/Alimentos.cs" Line="22" Column="25" />
+      <File FileName="PracticaPorObjetivos1/Producto.cs" Line="21" Column="8" />
+      <File FileName="PracticaPorObjetivos1/Platillo.cs" Line="18" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PracticaPorObjetivos1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

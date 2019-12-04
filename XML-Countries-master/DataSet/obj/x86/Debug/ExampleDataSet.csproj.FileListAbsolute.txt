@@ -1,0 +1,12 @@
+/Users/pamelaruizhernandez/Projects/DataSet/DataSet/obj/x86/Debug/ExampleDataSet.csprojAssemblyReference.cache
+/Users/pamelaruizhernandez/Projects/DataSet/DataSet/obj/x86/Debug/ExampleDataSet.csproj.CoreCompileInputs.cache
+/Users/pamelaruizhernandez/Projects/DataSet/DataSet/bin/Debug/DataSet.exe
+/Users/pamelaruizhernandez/Projects/DataSet/DataSet/bin/Debug/DataSet.pdb
+/Users/pamelaruizhernandez/Projects/DataSet/DataSet/obj/x86/Debug/DataSet.exe
+/Users/pamelaruizhernandez/Projects/DataSet/DataSet/obj/x86/Debug/DataSet.pdb
+/Users/pamelaruiz/Projects/DataSet/DataSet/bin/Debug/DataSet.exe
+/Users/pamelaruiz/Projects/DataSet/DataSet/bin/Debug/DataSet.pdb
+/Users/pamelaruiz/Projects/DataSet/DataSet/obj/x86/Debug/ExampleDataSet.csprojAssemblyReference.cache
+/Users/pamelaruiz/Projects/DataSet/DataSet/obj/x86/Debug/ExampleDataSet.csproj.CoreCompileInputs.cache
+/Users/pamelaruiz/Projects/DataSet/DataSet/obj/x86/Debug/DataSet.exe
+/Users/pamelaruiz/Projects/DataSet/DataSet/obj/x86/Debug/DataSet.pdb

@@ -1,0 +1,11 @@
+<%@ Page Language="C#" Inherits="PaisesYPlatillos.Default" MasterPageFile="~/MasterPage.master"  %>
+
+<asp:Content ContentPlaceHolderID="cotntentPlaceHolder" runat="server">
+    <h1>Catalogo de Comida</h1>
+    <asp:Label runat="server">Nombre</asp:Label>
+    <asp:TextBox runat="server" id="txtComida" /><br />
+    <asp:Label runat="server">Pais de Origen</asp:Label>
+    <asp:DropDownList runat="server" id="cboPais" /><br />
+
+    <asp:DataGrid id="Grid" runat="server" AutoGenerateColumns="true"></asp:DataGrid>
+</asp:Content>

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{65B13DBC-A42B-4CB3-A410-FFECED39B8E1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Relacion__ES__UN__y__TIENE__UN PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../PracticaPorObjetivos1/PracticaPorObjetivos1/Platillo.cs">
+    <Files>
+      <File FileName="Relacion_ES_UN_y_TIENE_UN/Program.cs" Line="17" Column="37" />
+      <File FileName="Relacion_ES_UN_y_TIENE_UN/Pavillion.cs" Line="23" Column="20" />
+      <File FileName="Relacion_ES_UN_y_TIENE_UN/Memoria.cs" Line="4" Column="25" />
+      <File FileName="Relacion_ES_UN_y_TIENE_UN/DiscoDuro.cs" Line="12" Column="39" />
+      <File FileName="Relacion_ES_UN_y_TIENE_UN/Computadora.cs" Line="19" Column="38" />
+      <File FileName="../PracticaPorObjetivos1/PracticaPorObjetivos1/Platillo.cs" Line="14" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

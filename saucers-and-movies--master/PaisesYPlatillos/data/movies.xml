@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<data>
+  <movies>
+    <id>1</id>
+    <title>The Avengers</title>
+    <genre>Acción</genre>
+  </movies>
+  <movies>
+    <id>2</id>
+    <title>Spiderman:Spider-Verse</title>
+    <genre>Acción</genre>
+  </movies>
+  <movies>
+    <id>3</id>
+    <title>Coraline</title>
+    <genre>Terror</genre>
+  </movies>
+  <movies>
+    <id>4</id>
+    <title>Acuaman</title>
+    <genre>Acción</genre>
+  </movies>
+  <movies>
+    <id>5</id>
+    <title>Roma</title>
+    <genre>Drama</genre>
+  </movies>
+  <movies>
+    <id>6</id>
+    <title>La quinta ola</title>
+    <genre>Ficción</genre>
+  </movies>
+  <movies>
+    <id>7</id>
+    <title>otrogenero</title>
+    <genre>shazam</genre>
+  </movies>
+</data>

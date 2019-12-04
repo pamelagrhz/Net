@@ -1,0 +1,4 @@
+C:\Users\Usuario\Documents\Projects\Chicharronera\Chicharronera\bin\Debug\Chicharronera.exe
+C:\Users\Usuario\Documents\Projects\Chicharronera\Chicharronera\bin\Debug\Chicharronera.pdb
+C:\Users\Usuario\Documents\Projects\Chicharronera\Chicharronera\obj\x86\Debug\Chicharronera.exe
+C:\Users\Usuario\Documents\Projects\Chicharronera\Chicharronera\obj\x86\Debug\Chicharronera.pdb

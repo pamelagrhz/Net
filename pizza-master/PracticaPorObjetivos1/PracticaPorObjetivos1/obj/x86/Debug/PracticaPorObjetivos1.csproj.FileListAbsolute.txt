@@ -1,0 +1,6 @@
+/Users/pamelaruizhernandez/Projects/PracticaPorObjetivos1/PracticaPorObjetivos1/obj/x86/Debug/PracticaPorObjetivos1.csprojAssemblyReference.cache
+/Users/pamelaruizhernandez/Projects/PracticaPorObjetivos1/PracticaPorObjetivos1/obj/x86/Debug/PracticaPorObjetivos1.csproj.CoreCompileInputs.cache
+/Users/pamelaruizhernandez/Projects/PracticaPorObjetivos1/PracticaPorObjetivos1/bin/Debug/PracticaPorObjetivos1.exe
+/Users/pamelaruizhernandez/Projects/PracticaPorObjetivos1/PracticaPorObjetivos1/bin/Debug/PracticaPorObjetivos1.pdb
+/Users/pamelaruizhernandez/Projects/PracticaPorObjetivos1/PracticaPorObjetivos1/obj/x86/Debug/PracticaPorObjetivos1.exe
+/Users/pamelaruizhernandez/Projects/PracticaPorObjetivos1/PracticaPorObjetivos1/obj/x86/Debug/PracticaPorObjetivos1.pdb

@@ -1,0 +1,6 @@
+/Users/pamelaruiz/Projects/Servidor/Servidor/bin/Debug/Servidor.exe
+/Users/pamelaruiz/Projects/Servidor/Servidor/bin/Debug/Servidor.pdb
+/Users/pamelaruiz/Projects/Servidor/Servidor/obj/x86/Debug/Servidor.csprojAssemblyReference.cache
+/Users/pamelaruiz/Projects/Servidor/Servidor/obj/x86/Debug/Servidor.csproj.CoreCompileInputs.cache
+/Users/pamelaruiz/Projects/Servidor/Servidor/obj/x86/Debug/Servidor.exe
+/Users/pamelaruiz/Projects/Servidor/Servidor/obj/x86/Debug/Servidor.pdb

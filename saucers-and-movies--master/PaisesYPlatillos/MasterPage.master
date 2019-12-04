@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" Inherits="PaisesYPlatillos.MasterPage" %>
+<!DOCTYPE html>
+<html>
+
+<head runat="server">
+    <meta charset="UTF-8">
+    <title>MasterPage</title>
+</head>
+
+<body>
+    <div id="container">
+        <form runat="server">
+            <table style="width:100%">
+                <tr>
+                    <td colspan="2">
+                        <h1>Practica ASPX Datos Desconectados</h1>
+                    </td>
+                </tr>
+                <tr><!--fila-->
+                    <td style="width 10%;border-style:solid"><!--td es una celda-->
+                        <h2>Navegacion</h2>
+                        <li>
+                            <asp:LinkButton runat="server" id="linkComida" OnClick="LBComida">Comida</asp:LinkButton>
+                        </li>
+                        <li>
+                            <asp:LinkButton runat="server" id="linkPeliculas" OnClick="LBPeliculas">Peliculas</asp:LinkButton>
+                        </li>
+                    </td>
+                    <td style="border-style:solid;">
+                        <asp:ContentPlaceHolder id="contentPlaceHolder" runat="server" />
+                    </td>                         
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+
+</html>

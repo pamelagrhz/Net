@@ -1,0 +1,11 @@
+/Users/pamelaruiz/Projects/pizzas2/pizzas2.Tests/bin/Debug/pizzas2.Tests.dll
+/Users/pamelaruiz/Projects/pizzas2/pizzas2.Tests/bin/Debug/pizzas2.Tests.pdb
+/Users/pamelaruiz/Projects/pizzas2/pizzas2.Tests/bin/Debug/nunit.framework.dll
+/Users/pamelaruiz/Projects/pizzas2/pizzas2.Tests/bin/Debug/pizzas2.dll
+/Users/pamelaruiz/Projects/pizzas2/pizzas2.Tests/bin/Debug/pizzas2.pdb
+/Users/pamelaruiz/Projects/pizzas2/pizzas2.Tests/bin/Debug/nunit.framework.xml
+/Users/pamelaruiz/Projects/pizzas2/pizzas2.Tests/obj/Debug/pizzas2.Tests.csprojAssemblyReference.cache
+/Users/pamelaruiz/Projects/pizzas2/pizzas2.Tests/obj/Debug/pizzas2.Tests.csproj.CoreCompileInputs.cache
+/Users/pamelaruiz/Projects/pizzas2/pizzas2.Tests/obj/Debug/pizzas2.Tests.csproj.CopyComplete
+/Users/pamelaruiz/Projects/pizzas2/pizzas2.Tests/obj/Debug/pizzas2.Tests.dll
+/Users/pamelaruiz/Projects/pizzas2/pizzas2.Tests/obj/Debug/pizzas2.Tests.pdb

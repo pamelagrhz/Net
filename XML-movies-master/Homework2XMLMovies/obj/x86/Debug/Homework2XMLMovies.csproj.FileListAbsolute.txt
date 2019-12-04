@@ -1,0 +1,6 @@
+/Users/pamelaruizhernandez/Projects/Homework2XMLMovies/Homework2XMLMovies/bin/Debug/Homework2XMLMovies.exe
+/Users/pamelaruizhernandez/Projects/Homework2XMLMovies/Homework2XMLMovies/bin/Debug/Homework2XMLMovies.pdb
+/Users/pamelaruizhernandez/Projects/Homework2XMLMovies/Homework2XMLMovies/obj/x86/Debug/Homework2XMLMovies.csprojAssemblyReference.cache
+/Users/pamelaruizhernandez/Projects/Homework2XMLMovies/Homework2XMLMovies/obj/x86/Debug/Homework2XMLMovies.csproj.CoreCompileInputs.cache
+/Users/pamelaruizhernandez/Projects/Homework2XMLMovies/Homework2XMLMovies/obj/x86/Debug/Homework2XMLMovies.exe
+/Users/pamelaruizhernandez/Projects/Homework2XMLMovies/Homework2XMLMovies/obj/x86/Debug/Homework2XMLMovies.pdb

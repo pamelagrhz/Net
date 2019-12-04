@@ -1,0 +1,6 @@
+/Users/pamelaruizhernandez/oficial2/oficial2/bin/oficial2.dll
+/Users/pamelaruizhernandez/oficial2/oficial2/bin/oficial2.pdb
+/Users/pamelaruizhernandez/oficial2/oficial2/obj/Debug/oficial2.csprojAssemblyReference.cache
+/Users/pamelaruizhernandez/oficial2/oficial2/obj/Debug/oficial2.csproj.CoreCompileInputs.cache
+/Users/pamelaruizhernandez/oficial2/oficial2/obj/Debug/oficial2.dll
+/Users/pamelaruizhernandez/oficial2/oficial2/obj/Debug/oficial2.pdb

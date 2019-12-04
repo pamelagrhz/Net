@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<data>
+  <platillos>
+    <id>1</id>
+    <name>Chilaquiles</name>
+    <paisId>1</paisId>
+  </platillos>
+  <platillos>
+    <id>2</id>
+    <name>Paella</name>
+    <paisId>2</paisId>
+  </platillos>
+  <platillos>
+    <id>3</id>
+    <name>Sushi</name>
+    <paisId>3</paisId>
+  </platillos>
+  <platillos>
+    <id>4</id>
+    <name>HotDog</name>
+    <paisId>4</paisId>
+  </platillos>
+  <platillos>
+    <id>6</id>
+    <name>enchiladas</name>
+    <paisId>1</paisId>
+  </platillos>
+  <platillos>
+    <id>7</id>
+    <name>Hamburguesas</name>
+    <paisId>4</paisId>
+  </platillos>
+</data>

@@ -1,0 +1,6 @@
+/Users/pamelaruizhernandez/Projects/LaLiebreYLaTortuga/LaLiebreYLaTortuga/obj/x86/Debug/LaLiebreYLaTortuga.csprojAssemblyReference.cache
+/Users/pamelaruizhernandez/Projects/LaLiebreYLaTortuga/LaLiebreYLaTortuga/obj/x86/Debug/LaLiebreYLaTortuga.csproj.CoreCompileInputs.cache
+/Users/pamelaruizhernandez/Projects/LaLiebreYLaTortuga/LaLiebreYLaTortuga/bin/Debug/LaLiebreYLaTortuga.exe
+/Users/pamelaruizhernandez/Projects/LaLiebreYLaTortuga/LaLiebreYLaTortuga/bin/Debug/LaLiebreYLaTortuga.pdb
+/Users/pamelaruizhernandez/Projects/LaLiebreYLaTortuga/LaLiebreYLaTortuga/obj/x86/Debug/LaLiebreYLaTortuga.exe
+/Users/pamelaruizhernandez/Projects/LaLiebreYLaTortuga/LaLiebreYLaTortuga/obj/x86/Debug/LaLiebreYLaTortuga.pdb
